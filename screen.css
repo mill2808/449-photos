@@ -8,14 +8,13 @@ body {
 }
 
 main {
-    margin: 0 auto;
+    margin: 0;
     float: left;
 }
 
 div {
     display: flex;
     justify-content: space-evenly;
-    border-radius: 10px;
 }
 
 img {
